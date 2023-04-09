@@ -7,7 +7,7 @@
 
 # The problem solves
 
-- ♻️ Our inspiration for creating Fatafat Finance came from the recognition that managing finances can be daunting, and that many individuals may find it challenging to make informed decisions in this area. We have personally faced similar struggles and have learned from our own experiences. In our journey, we have sought guidance from mentors and learned the best practices through trial and error.
+- ♻️ Our inspiration for creating Fatafat Finance came from the recognition that managing finances can be daunting, and that many individuals may find it challenging to make informed decisions in this area. We have personally faced similar struggles and have learnt from our own experiences. In our journey, we have sought guidance from mentors and learned the best practices through trial and error.
 
 ![Web capture_9-4-2023_10417_localhost](https://user-images.githubusercontent.com/78801686/230759226-70d98258-2f50-4d02-8be9-af60d203270e.jpeg)
 
